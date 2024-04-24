@@ -23,6 +23,7 @@ void insertion_sort(lista *l){
     }
 }
 
+// tentando colocar na forma recursiva
 void insertion_sort_recursiva(lista *l, long i){
     long j;
     elem aux;
